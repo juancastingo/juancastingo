@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
     <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
-    <img alt="Juan Cruz Stingo - Profile" src="dark_mode.svg" width="800">
+    <img alt="Juan Cruz Stingo - Profile" src="dark_mode.svg" width="960">
   </picture>
 </div>
 
@@ -25,7 +25,7 @@
 ### 🛠️ Core Tech & Arsenal
 
 ```text
-  Cloud & Infra  ❯  AWS (Certified Architect) · Docker · Serverless · Unix/Linux
+  Cloud & Infra  ❯  AWS (Solutions Architect) · Docker · Serverless · Unix/Linux
   Languages      ❯  TypeScript · Python · JavaScript · Go · Bash · SQL
   Backend & Data ❯  Node.js · Express · Flask · PostgreSQL · DynamoDB · Redis
 ```
@@ -33,5 +33,5 @@
 ---
 
 <p align="center">
-  <sub>⚡ Crafted with Unix terminal aesthetics · Adapts automatically to Light and Dark mode</sub>
+  <sub>⚡ Fastfetch & Neofetch Unix Terminal Aesthetic · Auto Dark & Light Mode</sub>
 </p>

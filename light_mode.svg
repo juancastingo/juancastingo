@@ -1,41 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="13px">
-  <!-- Background Card -->
-  <rect x="0.5" y="0.5" width="799" height="419" rx="12" fill="#ffffff" stroke="#d0d7de"/>
-
-  <!-- Terminal Window Bar -->
-  <rect x="0.5" y="0.5" width="799" height="38" rx="12" fill="#f6f8fa"/>
-  <rect x="0.5" y="26" width="799" height="13" fill="#f6f8fa"/>
-  <line x1="0" y1="38" x2="800" y2="38" stroke="#d0d7de" stroke-width="1"/>
-
-  <!-- Window Controls -->
-  <circle cx="24" cy="19" r="6" fill="#ff5f56"/>
-  <circle cx="44" cy="19" r="6" fill="#ffbd2e"/>
-  <circle cx="64" cy="19" r="6" fill="#27c93f"/>
-  <text x="400" y="24" fill="#57606a" font-size="12px" text-anchor="middle">juancastingo@unix-box: ~</text>
-
-  <!-- Prompt Command -->
-  <text x="30" y="68" xml:space="preserve"><tspan fill="#1a7f37">juancastingo@github</tspan><tspan fill="#57606a">:</tspan><tspan fill="#0969da">~</tspan><tspan fill="#24292f">$ fastfetch --profile summary</tspan></text>
-
-  <!-- Divider -->
-  <text x="30" y="94" fill="#0969da">JUAN CRUZ STINGO <tspan fill="#afb8c1">─────────────────────────────────────────────────────────────────</tspan></text>
-
-  <!-- System Info -->
-  <text x="30" y="122" xml:space="preserve"><tspan fill="#953800">OS: </tspan><tspan fill="#afb8c1">......................... </tspan><tspan fill="#24292f">Linux (Ubuntu/Debian), macOS</tspan></text>
-  <text x="30" y="145" xml:space="preserve"><tspan fill="#953800">Kernel: </tspan><tspan fill="#afb8c1">..................... </tspan><tspan fill="#24292f">Senior Software &amp; Unix Engineer | AWS Solutions Architect</tspan></text>
-  <text x="30" y="168" xml:space="preserve"><tspan fill="#953800">Host: </tspan><tspan fill="#afb8c1">....................... </tspan><tspan fill="#24292f">Buenos Aires, Argentina (Remote)</tspan></text>
-  <text x="30" y="191" xml:space="preserve"><tspan fill="#953800">Uptime: </tspan><tspan fill="#afb8c1">..................... </tspan><tspan fill="#24292f">16+ years in IT (IBM Unix Admin ➔ Cloud &amp; Full Stack)</tspan></text>
-  <text x="30" y="214" xml:space="preserve"><tspan fill="#953800">IDE: </tspan><tspan fill="#afb8c1">........................ </tspan><tspan fill="#24292f">VS Code, Cursor, Neovim</tspan></text>
-
-  <!-- Stack Header -->
-  <text x="30" y="248" fill="#0969da">─ Stack &amp; Technologies <tspan fill="#afb8c1">──────────────────────────────────────────────────────────</tspan></text>
-
-  <text x="30" y="274" xml:space="preserve"><tspan fill="#953800">Languages: </tspan><tspan fill="#afb8c1">.................. </tspan><tspan fill="#24292f">TypeScript, Python, JavaScript (Node.js), Go, Bash, SQL</tspan></text>
-  <text x="30" y="297" xml:space="preserve"><tspan fill="#953800">Cloud &amp; DevOps: </tspan><tspan fill="#afb8c1">............. </tspan><tspan fill="#24292f">AWS (Lambda, ECS, S3, RDS, CDK), Docker, Serverless, CI/CD</tspan></text>
-  <text x="30" y="320" xml:space="preserve"><tspan fill="#953800">Data &amp; Systems: </tspan><tspan fill="#afb8c1">............. </tspan><tspan fill="#24292f">PostgreSQL, DynamoDB, Redis, Unix/Linux Administration</tspan></text>
-
-  <!-- Contact & Status Header -->
-  <text x="30" y="354" fill="#0969da">─ Contact &amp; Availability <tspan fill="#afb8c1">────────────────────────────────────────────────────────</tspan></text>
-
-  <text x="30" y="380" xml:space="preserve"><tspan fill="#953800">Email: </tspan><tspan fill="#afb8c1">...................... </tspan><tspan fill="#24292f">juanxstingo@gmail.com</tspan><tspan fill="#afb8c1">  |  </tspan><tspan fill="#953800">GitHub: </tspan><tspan fill="#afb8c1">... </tspan><tspan fill="#24292f">github.com/juancastingo</tspan></text>
-  <text x="30" y="401" xml:space="preserve"><tspan fill="#953800">Status: </tspan><tspan fill="#afb8c1">..................... </tspan><tspan fill="#1a7f37">● Open to high-impact engineering &amp; architecture challenges</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="560" viewBox="0 0 1020 560" font-family="Consolas, Menlo, Monaco, monospace">
+  <rect x="0.5" y="0.5" width="1019" height="559" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+  <rect x="0.5" y="0.5" width="1019" height="36" rx="12" fill="#f6f8fa"/>
+  <rect x="0.5" y="24" width="1019" height="13" fill="#f6f8fa"/>
+  <line x1="0" y1="36" x2="1020" y2="36" stroke="#d0d7de" stroke-width="1"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="18" r="6" fill="#27c93f"/>
+  <text x="510" y="23" fill="#57606a" font-size="12px" text-anchor="middle">juancastingo@terminal: ~</text>
+  <text x="20" y="58.0" font-size="8.5px" fill="#57606a" xml:space="preserve">--------++++===-----------------------------=-:--:--::::::::::::::::::::::::::::::::::::::::::::..  </text>
+  <text x="20" y="68.2" font-size="8.5px" fill="#57606a" xml:space="preserve">--------=+=---------------------------------=------------::--:::::::::::::::::::::::::::::::::::..  </text>
+  <text x="20" y="78.4" font-size="8.5px" fill="#57606a" xml:space="preserve">--------------------------------------------==--------====+***=-::::::::::::::::::::::::::::::::....</text>
+  <text x="20" y="88.6" font-size="8.5px" fill="#57606a" xml:space="preserve">-----------------------------------------===+*%%%####%@%%%%%%%#*-:::::::::::::::::::::::::::::::....</text>
+  <text x="20" y="98.8" font-size="8.5px" fill="#57606a" xml:space="preserve">---------------------------------------=+*%%@@@@@@@@@@@@@@@@@@@%*-::::::::::::::::::::::::::::::....</text>
+  <text x="20" y="109.0" font-size="8.5px" fill="#57606a" xml:space="preserve">--------------------------------------=*%%@@@@@@@@@@@@@@@@@@@@@@#++=--::::::::::::::::::::::::::.. .</text>
+  <text x="20" y="119.2" font-size="8.5px" fill="#57606a" xml:space="preserve">===-----------------------------------+%@@@@@@@@@@@@@@@@@@@@@@@@%%%%#*+=-:::::::::::::::::::::::..  </text>
+  <text x="20" y="129.4" font-size="8.5px" fill="#57606a" xml:space="preserve">===----------------------------------+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%##*-:::::::::::::::::::::::....</text>
+  <text x="20" y="139.6" font-size="8.5px" fill="#57606a" xml:space="preserve">===--------------------------------=#@@@@@@@@@@@@%%%###%%%@@@@@@@@@@@%#+=-::::::::::::::::::::::..  </text>
+  <text x="20" y="149.8" font-size="8.5px" fill="#57606a" xml:space="preserve">===-------------------------------=#%@@@@@@@%##*****++++++***#%@@@@@@%%#+--:::::::::::::::::::::....</text>
+  <text x="20" y="160.0" font-size="8.5px" fill="#57606a" xml:space="preserve">====------------------------------#@@@@@@%##***++++++++++++++++*#%@@@@@@%%*-::::::::::::::::::::....</text>
+  <text x="20" y="170.2" font-size="8.5px" fill="#57606a" xml:space="preserve">====-----------------------------%@@@@@##******+++++++++++======+*#@@@@@%#*+-:::::::::::::::::::....</text>
+  <text x="20" y="180.4" font-size="8.5px" fill="#57606a" xml:space="preserve">====----------------------------*@@@@%#*********+++++++++++======++#@@@@@%#=-:::::::::::::::::::....</text>
+  <text x="20" y="190.6" font-size="8.5px" fill="#57606a" xml:space="preserve">====----------------------------%@@@%#*********+++++++++++++++====++*%@@@%%*-:::::::::::::::::::..  </text>
+  <text x="20" y="200.8" font-size="8.5px" fill="#57606a" xml:space="preserve">+++=---------------------------*@@@%#********+++++===++++======++==++#@@@@%#-:::::::::::::::::::....</text>
+  <text x="20" y="211.0" font-size="8.5px" fill="#57606a" xml:space="preserve">+++=--------------------------+%@@@%#**********+++++++++++=======+=++*%@@@%+::::::::::::::::::::....</text>
+  <text x="20" y="221.2" font-size="8.5px" fill="#57606a" xml:space="preserve">+++=--------------------------*@@@@%#***##%%%####***+++*****++++==+++*%%@@%*:::::::::::::::::::-....</text>
+  <text x="20" y="231.4" font-size="8.5px" fill="#57606a" xml:space="preserve">+++=-------------------------=#@@@@@#**%@@@@@@@%%####**##%%@@@@%#*=++*%@%@%*:::::::::::::::::::-..  </text>
+  <text x="20" y="241.6" font-size="8.5px" fill="#57606a" xml:space="preserve">+++=-------------------------+%@@@@%##%%%###%%%%%##****##%%%%%%%%%#++#@@@@%*:::::::::::::::::::-..  </text>
+  <text x="20" y="251.8" font-size="8.5px" fill="#57606a" xml:space="preserve">+++=-------------------------=%@@@@%#########%%%%%*++=+#%%%%########+#@@@@%+:::::::::::::::::::-....</text>
+  <text x="20" y="262.0" font-size="8.5px" fill="#57606a" xml:space="preserve">+++=-------------------------+%@@@@%*###%%@@@@%%%#*++=+#%%%%@%#**##*+*%@@@%-:::::::::::::::::::-....</text>
+  <text x="20" y="272.2" font-size="8.5px" fill="#57606a" xml:space="preserve">+++=-------------------------=#@@@@#**####%%%%%##**+++++*##%%@%%%#**+*%@@@#-:::::::::::::::::::-....</text>
+  <text x="20" y="282.4" font-size="8.5px" fill="#57606a" xml:space="preserve">+++=--------------------------=#@@@#*****#####******+++++++*****++++++%@@@#-::::::::::::::::::--... </text>
+  <text x="20" y="292.6" font-size="8.5px" fill="#57606a" xml:space="preserve">++++---------------------------*%@%****************++================+#%##+-::::::::::::::::::--... </text>
+  <text x="20" y="302.8" font-size="8.5px" fill="#57606a" xml:space="preserve">++++---------------------------+###***+++++**********+++=============+*#*#+:::::::::::::::------....</text>
+  <text x="20" y="313.0" font-size="8.5px" fill="#57606a" xml:space="preserve">++++=--------------------------=#*#*****++*****#%@%##%%#*+===========++++*++++++++*****########=....</text>
+  <text x="20" y="323.2" font-size="8.5px" fill="#57606a" xml:space="preserve">++++=---------------------------+*#***********#######*##*+===========+**+*#%%%%%%%%%%%%%%%%%%%%+....</text>
+  <text x="20" y="333.4" font-size="8.5px" fill="#57606a" xml:space="preserve">++++=----------------------------********#*******#***++=============+++++*%%@@%%%%%%%%%%%%%%%%%+.. .</text>
+  <text x="20" y="343.6" font-size="8.5px" fill="#57606a" xml:space="preserve">++++=----------------------------+******########**+*+++============+++==+@@@@@@@@@@@%%%%@@@%%%%+....</text>
+  <text x="20" y="353.8" font-size="8.5px" fill="#57606a" xml:space="preserve">++++=----------------------=*##%%%%#****##########****+++++++=====++++=*@@@@@@@@@@@@@@@@@@@%%%%+....</text>
+  <text x="20" y="364.0" font-size="8.5px" fill="#57606a" xml:space="preserve">++++=------------------=#%%%@@@@@@@#*****###%%##%%%%%%%%#****++==+++#@@@@@@@@@@@@@@@@@@@@@@%%%%+..  </text>
+  <text x="20" y="374.2" font-size="8.5px" fill="#57606a" xml:space="preserve">++++=----------------=#%@@@@@@@@@@@%***##*****#****++++++++**++=++++%@@@@@@@@@@@@@@%%@@@@@@@%%%+....</text>
+  <text x="20" y="384.4" font-size="8.5px" fill="#57606a" xml:space="preserve">++++=-------------=#%%@@@@@@@@@@@@@@#**********###***++++==++++++++#@@@@@@@@@@@@@@@%%%@@@@@@%%%+....</text>
+  <text x="20" y="394.6" font-size="8.5px" fill="#57606a" xml:space="preserve">++++=------------+%%%@@@@@@@@@@@@@@@%###********###***+++++++**+++*%@@@@@@@@@@@@@@@%%%%@@@@@@%%+....</text>
+  <text x="20" y="404.8" font-size="8.5px" fill="#57606a" xml:space="preserve">++++=-----------=#@%@@@@@@@@@@@@@@@@@%###*********+++++++++++**++*+@@@@@@@@@@@@@@@@%%%%@@@@@@@%+....</text>
+  <text x="20" y="415.0" font-size="8.5px" fill="#57606a" xml:space="preserve">++++=-----------+%@@@@@@@@@@@@@@@@@@@@######***+++++====+++******++@@@@@@@@@@@@@@@@%%%%%%@@@@@%+....</text>
+  <text x="20" y="425.2" font-size="8.5px" fill="#57606a" xml:space="preserve">++++=-----------*@@@@@@@@@@@@@@@@@@@@@%######*****+++++++*******+++@@@@@@@@@@@%@@@@@%%%%%@@@@@%+....</text>
+  <text x="20" y="435.4" font-size="8.5px" fill="#57606a" xml:space="preserve">++++=----------=#@@@@@@@@@@@@@@@@@@@@@%###%%%%#############****++++@@@@@@@@@@@@%@@@@@%%%%%@@@@@+....</text>
+  <text x="20" y="445.6" font-size="8.5px" fill="#57606a" xml:space="preserve">+++++----------=%@@@@@@@@@@@@@@@@@@@@@@#####%%%%%%%%%%%%%###*+==+++%@@@@@@@@@@@@@@@@@@%%%@@@@@@+....</text>
+  <text x="20" y="455.8" font-size="8.5px" fill="#57606a" xml:space="preserve">+++++----------+%@@@@@@@@@@@@@@@@@@@@@@######%%%%%%%%%%%#*+++++=+++*@@@@@@@@@@@@@@@@@@@@@@@@@@@+....</text>
+  <text x="20" y="466.0" font-size="8.5px" fill="#57606a" xml:space="preserve">+++++----------*@@@@@@@@@@@@@@@@@@@@@@%#**#############***+++=====++*%%@@@@@@@@@@@@@@@@@@@@@@@@+....</text>
+  <text x="20" y="476.2" font-size="8.5px" fill="#57606a" xml:space="preserve">+++++----------#@@@@@@@@@@@@@@@@@@@@@@%#**##########***+++++=======+###%%#%@%%%%%#%%%%%%%@@@@@@+....</text>
+  <text x="20" y="486.4" font-size="8.5px" fill="#57606a" xml:space="preserve">+++++---------=%@@@@@@@@@@@@@@@@@@@@%%%%#########*****++++++======+#####%%###%%%%%%%%%%%%%%%%%#=....</text>
+  <text x="20" y="496.6" font-size="8.5px" fill="#57606a" xml:space="preserve">+++++---------+@@@@@@@@@@@@@@@@%%@@@@%%@@@@%%#*++*********++++++*#%%#######%%###%%%%%%%%%%%%%%#=....</text>
+  <text x="20" y="506.8" font-size="8.5px" fill="#57606a" xml:space="preserve">+++++---------#@@@@@@@@@@@@@@@%%@@@@@@%@@@%%%%%%#***%%%%%%%%%%%%%%%%%############%%%%%%%%%%%%%%=....</text>
+  <text x="20" y="517.0" font-size="8.5px" fill="#57606a" xml:space="preserve">++**+++##%%#+=%@@%%%@@@%@@@@@%%@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%############%%#####%%#%%%%%%%%%#=....</text>
+  <text x="20" y="527.2" font-size="8.5px" fill="#57606a" xml:space="preserve">*#%%%%%%%@@%%%%%%%%%@%%%%%%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%#######################%%##%%%%%%%%%=....</text>
+  <text x="545" y="65" font-size="13px" xml:space="preserve"><tspan fill="#0969da">juancastingo@github </tspan><tspan fill="#afb8c1">──────────────────────────────────</tspan></text>
+  <text x="545" y="100" font-size="12px" xml:space="preserve"><tspan fill="#953800">OS: </tspan><tspan fill="#afb8c1">.......................... </tspan><tspan fill="#24292f">Linux (Ubuntu/Debian), macOS</tspan></text>
+  <text x="545" y="122" font-size="12px" xml:space="preserve"><tspan fill="#953800">Uptime: </tspan><tspan fill="#afb8c1">...................... </tspan><tspan fill="#24292f">16+ years in IT &amp; Engineering</tspan></text>
+  <text x="545" y="144" font-size="12px" xml:space="preserve"><tspan fill="#953800">Host: </tspan><tspan fill="#afb8c1">........................ </tspan><tspan fill="#24292f">Buenos Aires, Argentina (Remote)</tspan></text>
+  <text x="545" y="166" font-size="12px" xml:space="preserve"><tspan fill="#953800">Kernel: </tspan><tspan fill="#afb8c1">...................... </tspan><tspan fill="#24292f">Senior Software &amp; Unix Engineer</tspan></text>
+  <text x="545" y="188" font-size="12px" xml:space="preserve"><tspan fill="#953800">Role: </tspan><tspan fill="#afb8c1">........................ </tspan><tspan fill="#24292f">AWS Solutions Architect</tspan></text>
+  <text x="545" y="210" font-size="12px" xml:space="preserve"><tspan fill="#953800">IDE: </tspan><tspan fill="#afb8c1">......................... </tspan><tspan fill="#24292f">VS Code, Cursor, Neovim</tspan></text>
+  <text x="545" y="248" font-size="13px" xml:space="preserve"><tspan fill="#0969da">─ Tech Stack </tspan><tspan fill="#afb8c1">───────────────────────────────────────────</tspan></text>
+  <text x="545" y="274" font-size="12px" xml:space="preserve"><tspan fill="#953800">Languages: </tspan><tspan fill="#afb8c1">................... </tspan><tspan fill="#24292f">TypeScript, Python, Node, Go, Bash</tspan></text>
+  <text x="545" y="296" font-size="12px" xml:space="preserve"><tspan fill="#953800">Cloud &amp; Infra: </tspan><tspan fill="#afb8c1">............... </tspan><tspan fill="#24292f">AWS, Docker, Serverless, Terraform</tspan></text>
+  <text x="545" y="318" font-size="12px" xml:space="preserve"><tspan fill="#953800">Databases: </tspan><tspan fill="#afb8c1">................... </tspan><tspan fill="#24292f">PostgreSQL, DynamoDB, Redis</tspan></text>
+  <text x="545" y="340" font-size="12px" xml:space="preserve"><tspan fill="#953800">Languages.Real: </tspan><tspan fill="#afb8c1">.............. </tspan><tspan fill="#24292f">Spanish (Native), English</tspan></text>
+  <text x="545" y="378" font-size="13px" xml:space="preserve"><tspan fill="#0969da">─ Contact </tspan><tspan fill="#afb8c1">──────────────────────────────────────────────</tspan></text>
+  <text x="545" y="404" font-size="12px" xml:space="preserve"><tspan fill="#953800">Email: </tspan><tspan fill="#afb8c1">....................... </tspan><tspan fill="#24292f">juanxstingo@gmail.com</tspan></text>
+  <text x="545" y="426" font-size="12px" xml:space="preserve"><tspan fill="#953800">LinkedIn: </tspan><tspan fill="#afb8c1">.................... </tspan><tspan fill="#24292f">in/juancruzstingo</tspan></text>
+  <text x="545" y="448" font-size="12px" xml:space="preserve"><tspan fill="#953800">GitHub: </tspan><tspan fill="#afb8c1">...................... </tspan><tspan fill="#24292f">github.com/juancastingo</tspan></text>
+  <text x="545" y="486" font-size="13px" xml:space="preserve"><tspan fill="#0969da">─ Status &amp; Architecture </tspan><tspan fill="#afb8c1">────────────────────────────────</tspan></text>
+  <text x="545" y="512" font-size="12px" xml:space="preserve"><tspan fill="#953800">Status: </tspan><tspan fill="#afb8c1">... </tspan><tspan fill="#1a7f37">● Active</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Focus: </tspan><tspan fill="#afb8c1">.. </tspan><tspan fill="#24292f">Cloud Native &amp; Systems</tspan></text>
+  <text x="545" y="534" font-size="12px" xml:space="preserve"><tspan fill="#953800">Public Repos: </tspan><tspan fill="#afb8c1">. </tspan><tspan fill="#24292f">38</tspan><tspan fill="#afb8c1"> | </tspan><tspan fill="#953800">Member: </tspan><tspan fill="#afb8c1">. </tspan><tspan fill="#24292f">Since Sep 2014</tspan></text>
 </svg>
