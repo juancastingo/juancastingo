@@ -8,19 +8,19 @@
 
 <br/>
 
-### 💼 Professional Background & Private Repositories
+### 💼 Professional Background & Enterprise Engineering
 
 > **Note on GitHub Activity:**  
-> With **16+ years in IT and Software Engineering**, the vast majority of my architectural design, production codebases, and engineering leadership work is hosted within **private enterprise organizations under NDA**.  
-> This public profile serves as a space for personal research, agentic experiments, and open-source contributions.
+> With **16+ years in IT and Software Engineering**, the vast majority of my architectural design, production systems, and engineering leadership work is hosted within **private enterprise organizations under NDA**.  
+> This profile serves as a hub for professional contact and personal technical explorations.
 
 ---
 
-### 🚀 About Me & Focus
+### 🚀 Engineering Leadership & Focus Areas
 
-- **Engineering Leadership:** Guiding technical strategy, scaling engineering teams, driving architectural decisions, and fostering a culture of delivery and engineering excellence.
-- **AI & Agentic Systems:** Designing autonomous AI agents, LLM integrations, RAG pipelines, and AI-assisted workflows using modern tooling (Cursor, Claude Code).
-- **Distributed Systems & Cloud:** Architecting scalable, fault-tolerant infrastructure on AWS (Solutions Architect), Serverless, and containerized microservices (Docker / Kubernetes).
+- **Technical Leadership & Strategy:** Driving architectural direction, leading distributed engineering teams, establishing engineering standards, and aligning technical outcomes with business goals.
+- **AI Engineering & Agentic Systems:** Designing autonomous AI workflows, LLM orchestration, RAG architectures, and developer tooling.
+- **Distributed Systems & Cloud Architecture:** Designing resilient, high-throughput systems on AWS (Solutions Architect), microservices, and serverless infrastructure.
 
 ---
 
@@ -32,12 +32,6 @@ AI / GenAI    :: LLMs, AI Agents, RAG, Prompt Engineering, Vector DBs
 Cloud & Ops   :: AWS, Docker, Serverless, CI/CD Actions, Linux/Unix
 Data & Cache  :: PostgreSQL, DynamoDB, Redis, Vector Databases
 ```
-
----
-
-### 📌 Featured Showcase
-
-* 🤖 **[whatsapp-bot-vercel](https://github.com/juancastingo/whatsapp-bot-vercel)** — Next.js & TypeScript bot architecture deployed to Vercel, integrating messaging webhooks and serverless functions.
 
 ---
 
