@@ -35,6 +35,13 @@ Data & Cache  :: PostgreSQL, DynamoDB, Redis, Vector Databases
 
 ---
 
+### 📌 Featured Open-Source Projects
+
+* ⚡ **[agentic-flow](https://github.com/juancastingo/agentic-flow)** — Resilient multi-agent DAG orchestration engine in TypeScript with circuit breakers, tool calling, and OpenTelemetry distributed tracing.
+* 🛡️ **[rate-sentinel](https://github.com/juancastingo/rate-sentinel)** — Ultra-high performance distributed rate limiter & traffic control service in Go (35M+ req/s, Token Bucket & Sliding Window, native Prometheus metrics).
+
+---
+
 ### 📬 Connect with me
 
 <p align="left">
