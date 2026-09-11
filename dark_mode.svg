@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="13px">
+  <!-- Background Card -->
+  <rect x="0.5" y="0.5" width="799" height="419" rx="12" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- Terminal Window Bar -->
+  <rect x="0.5" y="0.5" width="799" height="38" rx="12" fill="#161b22"/>
+  <rect x="0.5" y="26" width="799" height="13" fill="#161b22"/>
+  <line x1="0" y1="38" x2="800" y2="38" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Window Controls -->
+  <circle cx="24" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="19" r="6" fill="#27c93f"/>
+  <text x="400" y="24" fill="#8b949e" font-size="12px" text-anchor="middle">juancastingo@unix-box: ~</text>
+
+  <!-- Prompt Command -->
+  <text x="30" y="68" xml:space="preserve"><tspan fill="#3fb950">juancastingo@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ fastfetch --profile summary</tspan></text>
+
+  <!-- Divider -->
+  <text x="30" y="94" fill="#58a6ff">JUAN CRUZ STINGO <tspan fill="#484f58">─────────────────────────────────────────────────────────────────</tspan></text>
+
+  <!-- System Info -->
+  <text x="30" y="122" xml:space="preserve"><tspan fill="#ffa657">OS: </tspan><tspan fill="#484f58">......................... </tspan><tspan fill="#c9d1d9">Linux (Ubuntu/Debian), macOS</tspan></text>
+  <text x="30" y="145" xml:space="preserve"><tspan fill="#ffa657">Kernel: </tspan><tspan fill="#484f58">..................... </tspan><tspan fill="#c9d1d9">Senior Software &amp; Unix Engineer | AWS Solutions Architect</tspan></text>
+  <text x="30" y="168" xml:space="preserve"><tspan fill="#ffa657">Host: </tspan><tspan fill="#484f58">....................... </tspan><tspan fill="#c9d1d9">Buenos Aires, Argentina (Remote)</tspan></text>
+  <text x="30" y="191" xml:space="preserve"><tspan fill="#ffa657">Uptime: </tspan><tspan fill="#484f58">..................... </tspan><tspan fill="#c9d1d9">16+ years in IT (IBM Unix Admin ➔ Cloud &amp; Full Stack)</tspan></text>
+  <text x="30" y="214" xml:space="preserve"><tspan fill="#ffa657">IDE: </tspan><tspan fill="#484f58">........................ </tspan><tspan fill="#c9d1d9">VS Code, Cursor, Neovim</tspan></text>
+
+  <!-- Stack Header -->
+  <text x="30" y="248" fill="#58a6ff">─ Stack &amp; Technologies <tspan fill="#484f58">──────────────────────────────────────────────────────────</tspan></text>
+
+  <text x="30" y="274" xml:space="preserve"><tspan fill="#ffa657">Languages: </tspan><tspan fill="#484f58">.................. </tspan><tspan fill="#c9d1d9">TypeScript, Python, JavaScript (Node.js), Go, Bash, SQL</tspan></text>
+  <text x="30" y="297" xml:space="preserve"><tspan fill="#ffa657">Cloud &amp; DevOps: </tspan><tspan fill="#484f58">............. </tspan><tspan fill="#c9d1d9">AWS (Lambda, ECS, S3, RDS, CDK), Docker, Serverless, CI/CD</tspan></text>
+  <text x="30" y="320" xml:space="preserve"><tspan fill="#ffa657">Data &amp; Systems: </tspan><tspan fill="#484f58">............. </tspan><tspan fill="#c9d1d9">PostgreSQL, DynamoDB, Redis, Unix/Linux Administration</tspan></text>
+
+  <!-- Contact & Status Header -->
+  <text x="30" y="354" fill="#58a6ff">─ Contact &amp; Availability <tspan fill="#484f58">────────────────────────────────────────────────────────</tspan></text>
+
+  <text x="30" y="380" xml:space="preserve"><tspan fill="#ffa657">Email: </tspan><tspan fill="#484f58">...................... </tspan><tspan fill="#c9d1d9">juanxstingo@gmail.com</tspan><tspan fill="#484f58">  |  </tspan><tspan fill="#ffa657">GitHub: </tspan><tspan fill="#484f58">... </tspan><tspan fill="#c9d1d9">github.com/juancastingo</tspan></text>
+  <text x="30" y="401" xml:space="preserve"><tspan fill="#ffa657">Status: </tspan><tspan fill="#484f58">..................... </tspan><tspan fill="#3fb950">● Open to high-impact engineering &amp; architecture challenges</tspan></text>
+</svg>
